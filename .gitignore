@@ -1,0 +1,13 @@
+# Generated SQLite database files
+/database/*.db
+/database/*.db-journal
+/database/*.db-shm
+/database/*.db-wal
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Operating-system files
+.DS_Store
+Thumbs.db
